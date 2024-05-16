@@ -83,7 +83,8 @@ GEM
       ffi (~> 1.0)
     rdoc (6.5.0)
       psych (>= 4.0.0)
-    rexml (3.2.5)
+    rexml (3.2.8)
+      strscan (>= 3.0.9)
     rouge (3.30.0)
     rss (0.2.9)
       rexml
@@ -112,6 +113,7 @@ GEM
     sprockets-helpers (1.4.0)
       sprockets (>= 2.2)
     stringio (3.0.6)
+    strscan (3.1.0)
     therubyrhino (2.1.2)
       therubyrhino_jar (>= 1.7.4, < 1.7.9)
     therubyrhino_jar (1.7.8)
